@@ -1,0 +1,386 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "在社交聚会中，你通常是：",
+      "options": [
+        { "label": "A", "text": "与许多人交流，包括陌生人", "value": "E" },
+        { "label": "B", "text": "只与少数认识的人交流", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 2,
+      "question": "如果你需要做一件事情，你更倾向于：",
+      "options": [
+        { "label": "A", "text": "先了解细节，再看整体", "value": "S" },
+        { "label": "B", "text": "先了解整体，再看细节", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 3,
+      "question": "在做决定时，你更多依据：",
+      "options": [
+        { "label": "A", "text": "逻辑和事实", "value": "T" },
+        { "label": "B", "text": "个人价值观和情感", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 4,
+      "question": "你的生活方式更倾向于：",
+      "options": [
+        { "label": "A", "text": "有计划、有条理", "value": "J" },
+        { "label": "B", "text": "随性、灵活", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 5,
+      "question": "你更喜欢哪种朋友：",
+      "options": [
+        { "label": "A", "text": "脚踏实地、现实的人", "value": "S" },
+        { "label": "B", "text": "充满想象力、有创意的人", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 6,
+      "question": "在工作中，你更看重：",
+      "options": [
+        { "label": "A", "text": "能够按时完成任务", "value": "J" },
+        { "label": "B", "text": "能够灵活应对突发情况", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 7,
+      "question": "当遇到新问题时，你通常会：",
+      "options": [
+        { "label": "A", "text": "寻找已经被证明有效的方法", "value": "S" },
+        { "label": "B", "text": "尝试全新的、未经验证的方法", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 8,
+      "question": "你通常比较：",
+      "options": [
+        { "label": "A", "text": "容易被他人了解", "value": "E" },
+        { "label": "B", "text": "深沉、内敛", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 9,
+      "question": "你更倾向于相信：",
+      "options": [
+        { "label": "A", "text": "你的经验", "value": "S" },
+        { "label": "B", "text": "你的直觉", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 10,
+      "question": "你认为哪种赞美更让你开心：",
+      "options": [
+        { "label": "A", "text": "你是一个很有逻辑的人", "value": "T" },
+        { "label": "B", "text": "你是一个很感性的人", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 11,
+      "question": "在周末，你更喜欢：",
+      "options": [
+        { "label": "A", "text": "和朋友聚会", "value": "E" },
+        { "label": "B", "text": "独自在家看书或休息", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 12,
+      "question": "你做事情通常是：",
+      "options": [
+        { "label": "A", "text": "提前很久开始准备", "value": "J" },
+        { "label": "B", "text": "在截止日期前突击完成", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 13,
+      "question": "在谈话中，你更倾向于：",
+      "options": [
+        { "label": "A", "text": "多说", "value": "E" },
+        { "label": "B", "text": "多听", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 14,
+      "question": "你更喜欢哪种故事：",
+      "options": [
+        { "label": "A", "text": "基于真实事件的", "value": "S" },
+        { "label": "B", "text": "充满幻想和虚构的", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 15,
+      "question": "当你需要拒绝别人时，你会：",
+      "options": [
+        { "label": "A", "text": "直接说明原因", "value": "T" },
+        { "label": "B", "text": "委婉地表达，以免伤人", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 16,
+      "question": "你更习惯于：",
+      "options": [
+        { "label": "A", "text": "按部就班地工作", "value": "J" },
+        { "label": "B", "text": "随兴所至地工作", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 17,
+      "question": "在团队中，你更倾向于：",
+      "options": [
+        { "label": "A", "text": "主动领导", "value": "E" },
+        { "label": "B", "text": "配合他人", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 18,
+      "question": "你更看重事物的：",
+      "options": [
+        { "label": "A", "text": "实际用途", "value": "S" },
+        { "label": "B", "text": "潜在意义", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 19,
+      "question": "如果你是领导，你更倾向于：",
+      "options": [
+        { "label": "A", "text": "公正严明", "value": "T" },
+        { "label": "B", "text": "仁慈宽厚", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 20,
+      "question": "对于旅行，你通常：",
+      "options": [
+        { "label": "A", "text": "制定详细的行程表", "value": "J" },
+        { "label": "B", "text": "到了目的地再看情况", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 21,
+      "question": "在很多人的场合，你会感到：",
+      "options": [
+        { "label": "A", "text": "精力充沛", "value": "E" },
+        { "label": "B", "text": "精疲力尽", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 22,
+      "question": "你更关心：",
+      "options": [
+        { "label": "A", "text": "当下发生的事情", "value": "S" },
+        { "label": "B", "text": "未来可能发生的事情", "value": "N" }
+      ],
+      "dimension": "SN"
+    },
+    {
+      "id": 23,
+      "question": "你认为这更像是一个赞美：",
+      "options": [
+        { "label": "A", "text": "这是一个理智的人", "value": "T" },
+        { "label": "B", "text": "这是一个情感丰富的人", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 24,
+      "question": "你的办公桌通常是：",
+      "options": [
+        { "label": "A", "text": "整洁有序的", "value": "J" },
+        { "label": "B", "text": "比较杂乱的", "value": "P" }
+      ],
+      "dimension": "JP"
+    },
+    {
+      "id": 25,
+      "question": "遇到陌生人时，你通常：",
+      "options": [
+        { "label": "A", "text": "主动攀谈", "value": "E" },
+        { "label": "B", "text": "等待对方开口", "value": "I" }
+      ],
+      "dimension": "EI"
+    },
+    {
+      "id": 26,
+      "question": "辩论时，你更看重：",
+      "options": [
+        { "label": "A", "text": "谁的观点更符合逻辑", "value": "T" },
+        { "label": "B", "text": "谁的感受更重要", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 27,
+      "question": "你更倾向于：",
+      "options": [
+        { "label": "A", "text": "坚持自己的原则", "value": "T" },
+        { "label": "B", "text": "维护和谐的关系", "value": "F" }
+      ],
+      "dimension": "TF"
+    },
+    {
+      "id": 28,
+      "question": "你做计划时倾向于：",
+      "options": [
+        { "label": "A", "text": "确定具体时间点", "value": "J" },
+        { "label": "B", "text": "列出大致要做的事", "value": "P" }
+      ],
+      "dimension": "JP"
+    }
+  ],
+  "types": {
+    "ISTJ": {
+      "name": "物流师",
+      "tags": ["责任者", "公务员", "务实"],
+      "description": "安静、严肃，通过全面和务实赢得成功。非常诚实、负责、有秩序。",
+      "strengths": ["诚实", "负责", "有秩序", "专注"],
+      "weaknesses": ["固执", "不善变通", "不敏感"],
+      "careers": ["会计", "审计", "军官", "系统管理员"]
+    },
+    "ISFJ": {
+      "name": "守卫者",
+      "tags": ["照顾者", "护士", "奉献"],
+      "description": "安静、友好、负责任和有良心。时刻准备着保护他们所爱的人。",
+      "strengths": ["支持他人", "可靠", "耐心", "观察力强"],
+      "weaknesses": ["过于谦虚", "压抑情感", "负担过重"],
+      "careers": ["护士", "教师", "行政助理", "社工"]
+    },
+    "INFJ": {
+      "name": "提倡者",
+      "tags": ["咨询师", "作家", "神秘"],
+      "description": "坚持原则，富有洞察力，喜欢独处。安静而神秘，同时鼓舞人心且不知疲倦的理想主义者。",
+      "strengths": ["创意", "有远见", "利他", "有原则"],
+      "weaknesses": ["完美主义", "容易倦怠", "极其敏感"],
+      "careers": ["心理咨询师", "作家", "非营利组织", "人力资源"]
+    },
+    "INTJ": {
+      "name": "建筑师",
+      "tags": ["策划者", "科学家", "战略"],
+      "description": "独创性思维，对目标实现有强烈的动力。富有想象力和战略性的思想家，一切皆在计划之中。",
+      "strengths": ["战略思维", "自信", "高效率", "独立"],
+      "weaknesses": ["傲慢", "过度分析", "忽视情感"],
+      "careers": ["软件架构师", "科学家", "投资银行家", "战略顾问"]
+    },
+    "ISTP": {
+      "name": "鉴赏家",
+      "tags": ["手艺人", "机械师", "冷静"],
+      "description": "灵活、宽容，是冷静的观察者。大胆而实际的实验家，擅长使用各种形式的工具。",
+      "strengths": ["乐观", "实用", "抗压能力强", "创造性"],
+      "weaknesses": ["冒险", "难以承诺", "迟钝"],
+      "careers": ["机械师", "飞行员", "工程师", "急救员"]
+    },
+    "ISFP": {
+      "name": "探险家",
+      "tags": ["艺术家", "作曲家", "温和"],
+      "description": "安静、友好、敏感、和善。灵活有魅力的艺术家，时刻准备着探索和体验新鲜事物。",
+      "strengths": ["迷人", "想象力丰富", "好奇", "热情"],
+      "weaknesses": ["独立过强", "容易有压力", "竞争性太强"],
+      "careers": ["艺术家", "设计师", "兽医", "厨师"]
+    },
+    "INFP": {
+      "name": "调停者",
+      "tags": ["治愈者", "哲学家", "理想"],
+      "description": "理想主义者，忠于自己的价值观。诗意，善良的利他主义者，总是热情地为正当理由提供帮助。",
+      "strengths": ["同理心", "慷慨", "开放", "有创意"],
+      "weaknesses": ["不切实际", "自我批评", "情绪化"],
+      "careers": ["作家", "心理学家", "人力资源", "编辑"]
+    },
+    "INTP": {
+      "name": "逻辑学家",
+      "tags": ["思想家", "教授", "逻辑"],
+      "description": "寻求发展逻辑解释，对理论感兴趣。具有创造力的发明家，对知识有着止不住的渴望。",
+      "strengths": ["分析力强", "原创", "客观", "开放"],
+      "weaknesses": ["孤僻", "不耐烦", "完美主义"],
+      "careers": ["程序员", "数学家", "教授", "系统分析师"]
+    },
+    "ESTP": {
+      "name": "企业家",
+      "tags": ["推销员", "实干家", "活力"],
+      "description": "灵活、宽容，采取务实的方法解决问题。聪明，精力充沛，善于感知的人，享受生活在边缘。",
+      "strengths": ["大胆", "理智", "社交能力强", "直接"],
+      "weaknesses": ["不耐烦", "冲动", "不守规则"],
+      "careers": ["销售", "企业家", "警察", "消防员"]
+    },
+    "ESFP": {
+      "name": "表演者",
+      "tags": ["演员", "乐天派", "热情"],
+      "description": "外向、友好、接受力强。自发的，精力充沛而热情的表演者 - 生活在他们周围永不无聊。",
+      "strengths": ["大胆", "原创", "表演力强", "观察力强"],
+      "weaknesses": ["容易厌倦", "计划性差", "容易冲突"],
+      "careers": ["演员", "公关", "活动策划", "导游"]
+    },
+    "ENFP": {
+      "name": "竞选者",
+      "tags": ["追梦人", "记者", "活力"],
+      "description": "热情洋溢、富有想象力。热情，有创造力，爱社交的自由人，总能找到理由微笑。",
+      "strengths": ["观察力敏锐", "极具魅力", "精力充沛", "优秀的沟通者"],
+      "weaknesses": ["思虑过多", "情绪化", "难以集中注意力"],
+      "careers": ["记者", "广告创意", "主持人", "咨询师"]
+    },
+    "ENTP": {
+      "name": "辩论家",
+      "tags": ["发明家", "律师", "机智"],
+      "description": "反应快、睿智，喜欢解决新的挑战。聪明好奇的思想家，无法抵挡智力挑战。",
+      "strengths": ["知识丰富", "思维敏捷", "独创性", "魅力"],
+      "weaknesses": ["爱争辩", "不专注", "不敏感"],
+      "careers": ["律师", "创业者", "咨询顾问", "工程师"]
+    },
+    "ESTJ": {
+      "name": "总经理",
+      "tags": ["监管者", "管家", "秩序"],
+      "description": "务实、现实、注重事实。出色的管理者，在管理事物或人的方面无与伦比。",
+      "strengths": ["奉献", "意志力强", "组织力强", "忠诚"],
+      "weaknesses": ["僵化", "难以前行", "判断性强"],
+      "careers": ["经理", "法官", "财务主管", "行政"]
+    },
+    "ESFJ": {
+      "name": "执政官",
+      "tags": ["供给者", "东道主", "热心"],
+      "description": "热心肠、有责任心、合作。极有同情心，爱社交，受欢迎的人，总是热心提供帮助。",
+      "strengths": ["责任感强", "忠诚", "温暖", "善于连接"],
+      "weaknesses": ["缺乏灵活", "太在意评价", "易受伤害"],
+      "careers": ["教师", "办公室主任", "公关", "护士"]
+    },
+    "ENFJ": {
+      "name": "主人公",
+      "tags": ["教育家", "导师", "魅力"],
+      "description": "热情、为他人着想、负责任。富有魅力和鼓舞人心的领导者，有使听众着迷的能力。",
+      "strengths": ["宽容", "可靠", "有号召力", "利他"],
+      "weaknesses": ["过度无私", "自尊心脆弱", "过于理想化"],
+      "careers": ["教师", "培训师", "销售经理", "HR"]
+    },
+    "ENTJ": {
+      "name": "指挥官",
+      "tags": ["统帅", "CEO", "果断"],
+      "description": "坦诚、果断，天生的领导者。大胆，富有想象力且意志强大的领导者，总能找到或创造解决方法。",
+      "strengths": ["高效", "自信", "意志坚定", "战略性"],
+      "weaknesses": ["支配欲强", "冷酷", "傲慢"],
+      "careers": ["CEO", "管理顾问", "律师", "法官"]
+    }
+  }
+}
